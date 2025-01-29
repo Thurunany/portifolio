@@ -1,4 +1,4 @@
-baseurl = "http://thurunany.github-io"
+baseurl = "https://thurunany.github.io/portifolio/"
 title = "thurunany"
 theme = "hugo-coder"
 languagecode = "en"
