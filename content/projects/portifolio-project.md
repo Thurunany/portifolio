@@ -19,7 +19,7 @@ This portfolio website is designed to showcase my expertise in **DevOps** and **
 - **CI/CD**: Automated builds and deployments using **GitHub Actions**.
 - **Styling**: Custom CSS enhancements on top of the theme's default styles.
 
-![Portfolio Screenshot](/images/web.png)
+![Portfolio Screenshot](/static/images/web.png)
 
 #### Key Features
 
