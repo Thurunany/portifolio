@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on thurunany</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on thurunany</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portifolio Project</title>
+      <link>http://localhost:1313/projects/portifolio-project/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/portifolio-project/</guid>
+      <description>&lt;p&gt;This portfolio website is designed to showcase my expertise in &lt;strong&gt;DevOps&lt;/strong&gt; and &lt;strong&gt;Data Engineering&lt;/strong&gt;. Built using &lt;strong&gt;Hugo&lt;/strong&gt;, a blazing-fast static site generator written in Go, the site leverages the &lt;strong&gt;Hugo Coded&lt;/strong&gt; theme for its clean and minimalistic design.&lt;/p&gt;&#xA;&lt;h4 id=&#34;tech-stack&#34;&gt;&#xA;  Tech Stack&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#tech-stack&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Static Site Generator&lt;/strong&gt;: &lt;a href=&#34;https://gohugo.io/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; (v0.120.4)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Theme&lt;/strong&gt;: &lt;a href=&#34;https://github.com/luizdepra/hugo-coded&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Coded&lt;/a&gt; (MIT License)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hosting&lt;/strong&gt;: Deployed on &lt;strong&gt;Github Pages&lt;/strong&gt; for continuous integration and automatic builds.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Version Control&lt;/strong&gt;: Managed via &lt;strong&gt;Git&lt;/strong&gt; and hosted on &lt;strong&gt;GitHub&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;CI/CD&lt;/strong&gt;: Automated builds and deployments using &lt;strong&gt;GitHub Actions&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Styling&lt;/strong&gt;: Custom CSS enhancements on top of the theme&amp;rsquo;s default styles.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/web.png&#34; alt=&#34;Portfolio Screenshot&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
